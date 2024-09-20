@@ -1,5 +1,5 @@
 #AIML-2025
-#Bhushetty Bharath Kumar 2303a51007
+# Bhushetty Bharath Kumar 2303a51007
 # Aritificial Intelligence and Machine Learning Lab Instruction Sheets
 1. [Lab 01](https://github.com/2303a51027/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Libraries-Numpy
 2. [Lab 02](https://github.com/2303a51027/AIML-2025/blob/main/AIML_A2%20(1).pdf): Implement AI Search
